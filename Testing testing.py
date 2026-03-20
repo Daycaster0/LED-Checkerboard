@@ -4,6 +4,7 @@ def student1Function():
     pass
 
 def student2Function():
+    print("Hello World! This is the one and only Dominic!")
     
     pass
 
